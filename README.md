@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Curriculum
 Short Specializations
@@ -546,3 +547,6 @@ GitHub repository: alx-files_manager
 File: utils/, controllers/FilesController.js, worker.js
  
 Copyright © 2023 ALX, All rights reserved.
+=======
+# alx-files_manager
+>>>>>>> 6b2c8182321453d5abb36859c18a736e687ecc24
